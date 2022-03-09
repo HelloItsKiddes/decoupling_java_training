@@ -1,1 +1,13 @@
 /home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/Sample.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/guessgame/ComputePlayer.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/FileLogger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/FilteredLogger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/CompositeLogger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Launcher.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/ContextualLogger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/Logger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Simulation.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/LoggerFactory.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/guessgame/HumanPlayer.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/logger/ConsoleLogger.java
+/home/kiddes/Documents/java/tp3/decoupling_java_training/src/main/java/fr/lernejo/guessgame/Player.java
